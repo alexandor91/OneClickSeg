@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=8 CUDA_LAUNCH_BLOCKING=1 sh scripts/test.sh -d scannet -c intersemseg-spunet-mask3d-15 -n mask3d-21 -w model_last

@@ -1,0 +1,3 @@
+# 一份标准的config文件的注释
+
+用的是某一版的MMCV的config类和register类
